@@ -1,8 +1,12 @@
 Package: upzonetrigger
-Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
-Description: What the package does (one paragraph).
+Version: 0.0.1
+Title: Identify Washington Cities That Should Upzone Transit-Served Areas
+Description: This package provides a data-driven method for identifying which cities
+  in Washington State should be required to upzone the land that is served by a
+  high-capacity transit system.
 Authors@R: person("Tiernan", "Martin", email = "tiernan.martin@gmail.com", role = c("aut", "cre"))
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
