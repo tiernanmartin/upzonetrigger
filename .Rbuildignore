@@ -2,3 +2,8 @@
 ^LICENSE\.md$
 ^upzonetrigger\.Rproj$
 ^\.Rproj\.user$
+^\.drake$
+inst/extdata/R
+doc
+extdata
+plans
