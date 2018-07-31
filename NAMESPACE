@@ -2,6 +2,7 @@
 
 export("%>%")
 export(copy_pkg_files)
+export(make_ext_chas_datadictionary)
 export(make_ext_chas_housingcostburden)
 importFrom(magrittr,"%>%")
 importFrom(purrr,map)

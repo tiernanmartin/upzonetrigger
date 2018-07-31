@@ -6,6 +6,7 @@
 #'   \describe{
 #'
 #'   \item{`• ext_chas_housingcostburden`:}{Housing cost burden data (2011-2015) from CHAS}
+#'   \item{`• ext_chas_datadictionary`:}{Data dictionary for the CHAS data}
 #'
 #'   }
 #'

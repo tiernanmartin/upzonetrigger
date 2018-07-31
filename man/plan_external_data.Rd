@@ -9,6 +9,7 @@ the following \code{\link[drake]{target}}s:
 \describe{
 
 \item{\code{• ext_chas_housingcostburden}:}{Housing cost burden data (2011-2015) from CHAS}
+\item{\code{• ext_chas_datadictionary}:}{Data dictionary for the CHAS data}
 
 }}
 \usage{

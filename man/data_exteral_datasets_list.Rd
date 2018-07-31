@@ -13,7 +13,8 @@ The following external datasets are accessed by workflows in this package:
 
 \describe{
 
-\item{\code{• ext_chas_housingcostburden}:}{Brief description (\href{https://osf.io/uwhft/}{link})}
+\item{\code{• ext_chas_housingcostburden}:}{Housing cost burden data (2011-2015) from CHAS (\href{https://osf.io/uwhft/}{link})}
+\item{\code{• ext_chas_datadictionary}:}{Data dictionary for the CHAS data (\href{https://osf.io/tevs6/}{link})}
 
 }}
 \usage{
