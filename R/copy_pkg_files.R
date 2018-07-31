@@ -27,7 +27,7 @@ copy_pkg_files <- function(to = getwd(),
   dir_list <- map(
     list("doc", "extdata", "plans"),
     system.file,
-    package = "drakepkg",
+    package = "upzonetrigger",
     mustWork = TRUE)
 
   overwrite_list <- list(overwrite_doc, overwrite_extdata, overwrite_plans)
