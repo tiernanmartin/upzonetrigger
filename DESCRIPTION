@@ -17,6 +17,7 @@ Depends:
     drake
 Imports: 
     magrittr,
-    readr
-Suggests:  
-    osfr
+    readr,
+    osfr,
+    purrr
+    
