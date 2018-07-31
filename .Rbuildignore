@@ -3,7 +3,7 @@
 ^upzonetrigger\.Rproj$
 ^\.Rproj\.user$
 ^\.drake$
-inst/extdata/R
-doc
-extdata
-plans
+^inst/extdata/*.*
+^doc/*
+^extdata/*
+^plans/*
