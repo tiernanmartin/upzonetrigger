@@ -16,4 +16,7 @@ Depends:
     R (>= 3.1.0),
     drake
 Imports: 
-    magrittr
+    magrittr,
+    readr
+Suggests:  
+    osfr
