@@ -39,5 +39,8 @@ make_ext_chas_datadictionary <- function(){
 
   data_fp_full <- osfr::download_files(id = data_osfr_id, path = data_fp)
 
-  readr::read_csv(data_fp_full)
+   readxl::read_xlsx(path = data_fp_full, sheet = "Table 8") %>%
+    janitor::clean_names(case= "screaming_snake")
+
+
 }

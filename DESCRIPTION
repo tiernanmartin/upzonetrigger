@@ -19,5 +19,6 @@ Imports:
     magrittr,
     readr,
     osfr,
-    purrr
-    
+    purrr,
+    readxl,
+    janitor
